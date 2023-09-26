@@ -1,0 +1,12 @@
+[
+    {
+      "name" : "archana",
+      "age" : 23
+    }, 
+    {
+              "name" : "archana",
+              "age" : 23,
+              "program": ["full stack", "apptidue"]
+     }
+  
+]
